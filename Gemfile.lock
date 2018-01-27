@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.0.3)
+    openstack (3.3.9)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  openstack
+
+BUNDLED WITH
+   1.13.6
